@@ -1,0 +1,23 @@
+AI_NAME = "MAX"
+
+OWNER = "Yash"
+
+VERSION = "3.0"
+
+WAKE_WORD = "Hey Max"
+
+DEBUG = True
+
+VOICE_RATE = 180
+
+VOICE_VOLUME = 1.0
+
+LANGUAGE = "en"
+
+THEME = "Dark"
+
+ENABLE_LOGS = True
+
+ENABLE_MEMORY = True
+
+ENABLE_VOICE = True

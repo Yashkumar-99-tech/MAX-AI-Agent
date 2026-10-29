@@ -1,0 +1,196 @@
+13-07-2026 20:08:11 | INFO | Application Started
+13-07-2026 20:08:11 | INFO | USER : Hello
+13-07-2026 20:08:11 | INFO | MAX  : Hello Yash
+13-07-2026 20:08:11 | WARNING | Low Memory
+13-07-2026 20:08:11 | ERROR | Sample Error
+13-07-2026 20:12:03 | INFO | Loading AI Brain
+13-07-2026 20:12:03 | INFO | Loading Memory
+13-07-2026 20:12:04 | INFO | Loading Automation
+13-07-2026 20:12:04 | INFO | Loading Voice
+13-07-2026 20:12:04 | INFO | Loading Plugins
+13-07-2026 20:12:04 | INFO | Loading Logger
+13-07-2026 20:12:05 | INFO | MAX AI Started Successfully
+13-07-2026 21:17:47 | INFO | Loading AI Brain
+13-07-2026 21:17:47 | INFO | Loading Memory
+13-07-2026 21:17:48 | INFO | Loading Automation
+13-07-2026 21:17:48 | INFO | Loading Voice
+13-07-2026 21:17:48 | INFO | Loading Plugins
+13-07-2026 21:17:48 | INFO | Loading Logger
+13-07-2026 21:17:49 | INFO | MAX AI Started Successfully
+13-07-2026 22:53:24 | INFO | Loading AI Brain
+13-07-2026 22:53:25 | INFO | Loading Memory
+13-07-2026 22:53:25 | INFO | Loading Automation
+13-07-2026 22:53:25 | INFO | Loading Voice
+13-07-2026 22:53:26 | INFO | Loading Plugins
+13-07-2026 22:53:26 | INFO | Loading Logger
+13-07-2026 22:53:26 | INFO | MAX AI Started Successfully
+13-07-2026 23:21:13 | INFO | Loading AI Brain
+13-07-2026 23:21:14 | INFO | Loading Memory
+13-07-2026 23:21:14 | INFO | Loading Automation
+13-07-2026 23:21:14 | INFO | Loading Voice
+13-07-2026 23:21:14 | INFO | Loading Plugins
+13-07-2026 23:21:15 | INFO | Loading Logger
+13-07-2026 23:21:15 | INFO | MAX AI Started Successfully
+13-07-2026 23:30:00 | INFO | Loading AI Brain
+13-07-2026 23:30:00 | INFO | Loading Memory
+13-07-2026 23:30:01 | INFO | Loading Automation
+13-07-2026 23:30:01 | INFO | Loading Voice
+13-07-2026 23:30:01 | INFO | Loading Plugins
+13-07-2026 23:30:02 | INFO | Loading Logger
+13-07-2026 23:30:02 | INFO | MAX AI Started Successfully
+13-07-2026 23:43:20 | INFO | Loading AI Brain
+13-07-2026 23:43:21 | INFO | Loading Memory
+13-07-2026 23:43:21 | INFO | Loading Automation
+13-07-2026 23:43:21 | INFO | Loading Voice
+13-07-2026 23:43:22 | INFO | Loading Plugins
+13-07-2026 23:43:22 | INFO | Loading Logger
+13-07-2026 23:43:22 | INFO | MAX AI Started Successfully
+13-07-2026 23:45:59 | INFO | Loading AI Brain
+13-07-2026 23:45:59 | INFO | Loading Memory
+13-07-2026 23:46:00 | INFO | Loading Automation
+13-07-2026 23:46:00 | INFO | Loading Voice
+13-07-2026 23:46:00 | INFO | Loading Plugins
+13-07-2026 23:46:00 | INFO | Loading Logger
+13-07-2026 23:46:01 | INFO | MAX AI Started Successfully
+13-07-2026 23:49:48 | INFO | Loading AI Brain
+13-07-2026 23:49:48 | INFO | Loading Memory
+13-07-2026 23:49:49 | INFO | Loading Automation
+13-07-2026 23:49:49 | INFO | Loading Voice
+13-07-2026 23:49:49 | INFO | Loading Plugins
+13-07-2026 23:49:49 | INFO | Loading Logger
+13-07-2026 23:49:50 | INFO | MAX AI Started Successfully
+13-07-2026 23:53:41 | INFO | Loading AI Brain
+13-07-2026 23:53:41 | INFO | Loading Memory
+13-07-2026 23:53:42 | INFO | Loading Automation
+13-07-2026 23:53:42 | INFO | Loading Voice
+13-07-2026 23:53:42 | INFO | Loading Plugins
+13-07-2026 23:53:43 | INFO | Loading Logger
+13-07-2026 23:53:43 | INFO | MAX AI Started Successfully
+13-07-2026 23:56:00 | INFO | Loading AI Brain
+13-07-2026 23:56:00 | INFO | Loading Memory
+13-07-2026 23:56:00 | INFO | Loading Automation
+13-07-2026 23:56:01 | INFO | Loading Voice
+13-07-2026 23:56:01 | INFO | Loading Plugins
+13-07-2026 23:56:01 | INFO | Loading Logger
+13-07-2026 23:56:02 | INFO | MAX AI Started Successfully
+14-07-2026 00:01:17 | INFO | Loading AI Brain
+14-07-2026 00:01:18 | INFO | Loading Memory
+14-07-2026 00:01:18 | INFO | Loading Automation
+14-07-2026 00:01:18 | INFO | Loading Voice
+14-07-2026 00:01:19 | INFO | Loading Plugins
+14-07-2026 00:01:19 | INFO | Loading Logger
+14-07-2026 00:01:19 | INFO | MAX AI Started Successfully
+14-07-2026 00:04:00 | INFO | Loading AI Brain
+14-07-2026 00:04:00 | INFO | Loading Memory
+14-07-2026 00:04:00 | INFO | Loading Automation
+14-07-2026 00:04:01 | INFO | Loading Voice
+14-07-2026 00:04:01 | INFO | Loading Plugins
+14-07-2026 00:04:01 | INFO | Loading Logger
+14-07-2026 00:04:01 | INFO | MAX AI Started Successfully
+14-07-2026 00:08:31 | INFO | Loading AI Brain
+14-07-2026 00:08:31 | INFO | Loading Memory
+14-07-2026 00:08:31 | INFO | Loading Automation
+14-07-2026 00:08:31 | INFO | Loading Voice
+14-07-2026 00:08:32 | INFO | Loading Plugins
+14-07-2026 00:08:32 | INFO | Loading Logger
+14-07-2026 00:08:32 | INFO | MAX AI Started Successfully
+14-07-2026 00:20:30 | INFO | Loading AI Brain
+14-07-2026 00:20:30 | INFO | Loading Memory
+14-07-2026 00:20:30 | INFO | Loading Automation
+14-07-2026 00:20:31 | INFO | Loading Voice
+14-07-2026 00:20:31 | INFO | Loading Plugins
+14-07-2026 00:20:31 | INFO | Loading Logger
+14-07-2026 00:20:31 | INFO | MAX AI Started Successfully
+14-07-2026 00:24:48 | INFO | Loading AI Brain
+14-07-2026 00:24:49 | INFO | Loading Memory
+14-07-2026 00:24:49 | INFO | Loading Automation
+14-07-2026 00:24:49 | INFO | Loading Voice
+14-07-2026 00:24:50 | INFO | Loading Plugins
+14-07-2026 00:24:50 | INFO | Loading Logger
+14-07-2026 00:24:50 | INFO | MAX AI Started Successfully
+16-07-2026 12:11:02 | INFO | Loading AI Brain
+16-07-2026 12:11:02 | INFO | Loading Memory
+16-07-2026 12:11:02 | INFO | Loading Automation
+16-07-2026 12:11:03 | INFO | Loading Voice
+16-07-2026 12:11:03 | INFO | Loading Plugins
+16-07-2026 12:11:03 | INFO | Loading Logger
+16-07-2026 12:11:03 | INFO | MAX AI Started Successfully
+16-07-2026 12:20:01 | INFO | Loading AI Brain
+16-07-2026 12:20:01 | INFO | Loading Memory
+16-07-2026 12:20:01 | INFO | Loading Automation
+16-07-2026 12:20:02 | INFO | Loading Voice
+16-07-2026 12:20:02 | INFO | Loading Plugins
+16-07-2026 12:20:02 | INFO | Loading Logger
+16-07-2026 12:20:03 | INFO | MAX AI Started Successfully
+16-07-2026 12:27:03 | INFO | Loading AI Brain
+16-07-2026 12:27:03 | INFO | Loading Memory
+16-07-2026 12:27:03 | INFO | Loading Automation
+16-07-2026 12:27:04 | INFO | Loading Voice
+16-07-2026 12:27:04 | INFO | Loading Plugins
+16-07-2026 12:27:04 | INFO | Loading Logger
+16-07-2026 12:27:04 | INFO | MAX AI Started Successfully
+16-07-2026 12:32:33 | INFO | Loading AI Brain
+16-07-2026 12:32:33 | INFO | Loading Memory
+16-07-2026 12:32:33 | INFO | Loading Automation
+16-07-2026 12:32:34 | INFO | Loading Voice
+16-07-2026 12:32:34 | INFO | Loading Plugins
+16-07-2026 12:32:34 | INFO | Loading Logger
+16-07-2026 12:32:35 | INFO | MAX AI Started Successfully
+16-07-2026 12:39:15 | INFO | Loading AI Brain
+16-07-2026 12:39:15 | INFO | Loading Memory
+16-07-2026 12:39:15 | INFO | Loading Automation
+16-07-2026 12:39:16 | INFO | Loading Voice
+16-07-2026 12:39:16 | INFO | Loading Plugins
+16-07-2026 12:39:16 | INFO | Loading Logger
+16-07-2026 12:39:16 | INFO | MAX AI Started Successfully
+16-07-2026 12:43:03 | INFO | Loading AI Brain
+16-07-2026 12:43:03 | INFO | Loading Memory
+16-07-2026 12:43:04 | INFO | Loading Automation
+16-07-2026 12:43:04 | INFO | Loading Voice
+16-07-2026 12:43:04 | INFO | Loading Plugins
+16-07-2026 12:43:04 | INFO | Loading Logger
+16-07-2026 12:43:05 | INFO | MAX AI Started Successfully
+16-07-2026 12:49:31 | INFO | Application Started
+16-07-2026 12:49:31 | INFO | USER : Hello
+16-07-2026 12:49:31 | INFO | MAX  : Hello Yash
+16-07-2026 12:49:31 | WARNING | Low Memory
+16-07-2026 12:49:31 | ERROR | Sample Error
+16-07-2026 12:50:53 | INFO | Application Started
+16-07-2026 12:50:53 | INFO | USER : Hello
+16-07-2026 12:50:53 | INFO | MAX  : Hello Yash
+16-07-2026 12:50:53 | WARNING | Low Memory
+16-07-2026 12:50:53 | ERROR | Sample Error
+16-07-2026 12:51:25 | INFO | Application Started
+16-07-2026 12:51:25 | INFO | USER : Hello
+16-07-2026 12:51:25 | INFO | MAX  : Hello Yash
+16-07-2026 12:51:25 | WARNING | Low Memory
+16-07-2026 12:51:25 | ERROR | Sample Error
+16-07-2026 12:52:27 | INFO | Application Started
+16-07-2026 12:52:27 | INFO | USER : Hello
+16-07-2026 12:52:27 | INFO | MAX  : Hello Yash
+16-07-2026 12:52:27 | WARNING | Low Memory
+16-07-2026 12:52:27 | ERROR | Sample Error
+16-07-2026 12:53:30 | INFO | Application Started
+16-07-2026 12:53:30 | INFO | USER : Hello
+16-07-2026 12:53:30 | INFO | MAX  : Hello Yash
+16-07-2026 12:53:30 | WARNING | Low Memory
+16-07-2026 12:53:30 | ERROR | Sample Error
+16-07-2026 12:56:14 | INFO | Application Started
+16-07-2026 12:56:14 | INFO | USER : Hello
+16-07-2026 12:56:14 | INFO | MAX  : Hello Yash
+16-07-2026 12:56:14 | WARNING | Low Memory
+16-07-2026 12:56:14 | ERROR | Sample Error
+16-07-2026 12:59:17 | INFO | Loading AI Brain
+16-07-2026 12:59:18 | INFO | Loading Memory
+16-07-2026 12:59:18 | INFO | Loading Automation
+16-07-2026 12:59:18 | INFO | Loading Voice
+16-07-2026 12:59:19 | INFO | Loading Plugins
+16-07-2026 12:59:19 | INFO | Loading Logger
+16-07-2026 12:59:19 | INFO | MAX AI Started Successfully
+16-07-2026 13:04:12 | INFO | Loading AI Brain
+16-07-2026 13:04:13 | INFO | Loading Memory
+16-07-2026 13:04:13 | INFO | Loading Automation
+16-07-2026 13:04:13 | INFO | Loading Voice
+16-07-2026 13:04:13 | INFO | Loading Plugins
+16-07-2026 13:04:14 | INFO | Loading Logger
+16-07-2026 13:04:14 | INFO | MAX AI Started Successfully
